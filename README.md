@@ -1,9 +1,9 @@
 How to start
 ============
-1. `git clone https://github.com/Kottans/bootstrap-starter-kit.git my-bp-project && cd $_ && rm -rf .git` - to get this source locally & delete .git folder, thus making it a simple folder
-2. `npm i` - run `npm install` and get all the dependencies
-3. `npm run setup` - install bower dependencies, inital build
-4. `npm run dev` - run gulp watcher, static server & open page in browser. In case you need to change port/hostname, be sure to edit [gulpfile](https://github.com/Kottans/bootstrap-starter-kit/blob/master/gulpfile.js#L12-L13)
+1. `git clone https://github.com/Kottans/bootstrap-starter-kit.git my-bp-project && cd $_ && rm -rf .git` - gets this source locally & deletes .git folder, thus making it a simple folder
+2. `npm i` - to complete `npm install` and get all the dependencies
+3. `npm run setup` - installs bower dependencies, does inital build
+4. `npm run dev` - runs gulp watcher, static server & open page in browser. In case you need to change port/hostname, be sure to edit [gulpfile](https://github.com/Kottans/bootstrap-starter-kit/blob/master/gulpfile.js#L12-L13)
 
 
 Credits
